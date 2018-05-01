@@ -1,0 +1,6 @@
+Edward: This is a test!
+Shelly:	Test Test Test
+Test:  	   		  	 Ehhhhhh?
+Pleh:No space.
+: One.
+Here is a really long sentence that I want to write to see how, first off long sentencees work. Second off, how the wrapping of the text is handled and if it looks good.

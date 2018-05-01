@@ -1,0 +1,8 @@
+﻿  auxx.cpp
+c:\users\kelton\vsprojects\prog2\prog2\auxx.cpp(1): fatal error C1083: Cannot open include file: 'SDL.h': No such file or directory
+  display.cpp
+c:\users\kelton\vsprojects\prog2\prog2\display.cpp(2): fatal error C1083: Cannot open include file: 'SDL.h': No such file or directory
+  main.cpp
+c:\users\kelton\vsprojects\prog2\prog2\main.cpp(2): fatal error C1083: Cannot open include file: 'SDL.h': No such file or directory
+  texture.cpp
+c:\users\kelton\vsprojects\prog2\prog2\texture.h(4): fatal error C1083: Cannot open include file: 'SDL.h': No such file or directory
